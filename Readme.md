@@ -1,0 +1,10 @@
+# Namaste React
+
+
+...
+# Parcel
+- Dev Build
+- Local Server
+- HMR- HOT MODULE REPLACEMENT
+- FILE WATCHING ALGORITHM- C++
+- CATCHING-FASTER BUILDS
